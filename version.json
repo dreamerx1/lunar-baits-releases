@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "exe_url": "https://github.com/dreamerx1/lunar-baits-releases/releases/download/v1.0.3/LunarBaits.exe",
-  "released_at": "2026-04-30T20:14:16+00:00",
-  "notes": "Naujos versijos nuo šiol automatiškai skelbiamos Pokalbių skiltyje su trumpu pakeitimų aprašymu."
+  "version": "1.0.4",
+  "exe_url": "https://github.com/dreamerx1/lunar-baits-releases/releases/download/v1.0.4/LunarBaits.exe",
+  "released_at": "2026-04-30T20:18:10+00:00",
+  "notes": "Pataisytas automatinio atnaujinimo procesas — atnaujinimas dabar tikrai įvyksta paspaudus mygtuką, exe pakeičiamas ir paleidžiamas iš naujo."
 }
