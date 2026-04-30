@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
-  "exe_url": "https://github.com/dreamerx1/lunar-baits-releases/releases/download/v1.0.5/LunarBaits.exe",
-  "released_at": "2026-04-30T20:27:22+00:00",
-  "notes": "Atnaujinta vizualika pagal prekės ženklo gidą — antraštėje rodomas Lunar Baits logotipas, akcentinė spalva pakeista į firminę ochros oranžinę."
+  "version": "1.0.6",
+  "exe_url": "https://github.com/dreamerx1/lunar-baits-releases/releases/download/v1.0.6/LunarBaits.exe",
+  "released_at": "2026-04-30T20:31:42+00:00",
+  "notes": "Pataisytas paleidimo klaidos sprendimas — įdiegtas Lunar Baits prekės ženklas anksčiau nesileido paleisti."
 }
