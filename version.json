@@ -1,6 +1,6 @@
 {
-  "version": "1.0.11",
-  "exe_url": "https://github.com/dreamerx1/lunar-baits-releases/releases/download/v1.0.11/LunarBaits.exe",
-  "released_at": "2026-05-01T06:44:06+00:00",
-  "notes": "Naujas, patikimesnis automatinio atnaujinimo mechanizmas — exe pakeitimas atliekamas išorinio scenarijaus, kuris laukia kol senasis procesas pilnai išsijungs, todėl atnaujinimo metu daugiau negalima sugadinti programos."
+  "version": "1.0.12",
+  "exe_url": "https://github.com/dreamerx1/lunar-baits-releases/releases/download/v1.0.12/LunarBaits.exe",
+  "released_at": "2026-05-01T07:47:58+00:00",
+  "notes": "Greitis: foninis sinchronizavimas dabar perpiešia tik matomą skirtuką (anksčiau visus 9), intervalas pailgintas iki 60 s, etiketės skaičiavimas talpyklinamas — sąsaja sklandesnė."
 }
