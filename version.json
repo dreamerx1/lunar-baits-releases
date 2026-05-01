@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8",
-  "exe_url": "https://github.com/dreamerx1/lunar-baits-releases/releases/download/v1.0.8/LunarBaits.exe",
-  "released_at": "2026-04-30T20:39:19+00:00",
-  "notes": "Pataisyta paleidimo klaida — programos paketas vėl turi pilną Tcl/Tk vykdymo aplinką ir startuoja sklandžiai."
+  "version": "1.0.9",
+  "exe_url": "https://github.com/dreamerx1/lunar-baits-releases/releases/download/v1.0.9/LunarBaits.exe",
+  "released_at": "2026-05-01T06:33:49+00:00",
+  "notes": "Pirkimuose žaliavų paieška dabar netraukia žymeklio iš laukelio — galite rašyti toliau, naudoti rodykles aukštyn/žemyn ir Enter pasirinkimui."
 }
