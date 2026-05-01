@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9",
-  "exe_url": "https://github.com/dreamerx1/lunar-baits-releases/releases/download/v1.0.9/LunarBaits.exe",
-  "released_at": "2026-05-01T06:33:49+00:00",
-  "notes": "Pirkimuose žaliavų paieška dabar netraukia žymeklio iš laukelio — galite rašyti toliau, naudoti rodykles aukštyn/žemyn ir Enter pasirinkimui."
+  "version": "1.0.10",
+  "exe_url": "https://github.com/dreamerx1/lunar-baits-releases/releases/download/v1.0.10/LunarBaits.exe",
+  "released_at": "2026-05-01T06:38:59+00:00",
+  "notes": "Patikimumo atnaujinimas — kompiliavimas dabar visada išvalo cache, o paleidimo testas užblokuoja sugadintą versiją prieš išleidžiant."
 }
