@@ -1,6 +1,6 @@
 {
-  "version": "1.0.15",
-  "exe_url": "https://github.com/dreamerx1/lunar-baits-releases/releases/download/v1.0.15/LunarBaits.exe",
-  "released_at": "2026-05-03T20:00:17+00:00",
-  "notes": "Visi mygtukai ir santraukos juostos visuose skirtukuose ir dialoguose dabar pritvirtinti prie lango apačios — niekada nebebus paslėpti, kad ir koks lango dydis."
+  "version": "1.0.16",
+  "exe_url": "https://github.com/dreamerx1/lunar-baits-releases/releases/download/v1.0.16/LunarBaits.exe",
+  "released_at": "2026-05-03T20:09:26+00:00",
+  "notes": "Atnaujinimo procesas perrašytas — atsisakyta batch failo (jis sugadindavo kelius su lietuviškomis raidėmis), naudojamas tik Python ir UTF-8. Nuo šiol exe pakeitimo metu nebebus jokių komandinės eilutės langų."
 }
