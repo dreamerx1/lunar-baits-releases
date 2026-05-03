@@ -1,6 +1,6 @@
 {
-  "version": "1.0.13",
-  "exe_url": "https://github.com/dreamerx1/lunar-baits-releases/releases/download/v1.0.13/LunarBaits.exe",
-  "released_at": "2026-05-03T19:51:05+00:00",
-  "notes": "Sandėlio žaliavos redagavimo lange dabar galima keisti pavadinimą (EN), formą (sausa/skystis), tipą (žaliava/subproduktas) ir likutį — likučio pakeitimai automatiškai įrašomi į judėjimų registrą su priežastimi "
+  "version": "1.0.14",
+  "exe_url": "https://github.com/dreamerx1/lunar-baits-releases/releases/download/v1.0.14/LunarBaits.exe",
+  "released_at": "2026-05-03T19:54:58+00:00",
+  "notes": "Gamyba: mygtukas "
 }
