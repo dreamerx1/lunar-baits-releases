@@ -1,6 +1,6 @@
 {
-  "version": "1.0.17",
-  "exe_url": "https://github.com/dreamerx1/lunar-baits-releases/releases/download/v1.0.17/LunarBaits.exe",
-  "released_at": "2026-05-03T20:17:13+00:00",
-  "notes": "Plano skirtuke įdiegti šablonai (Įkelti / Išsaugoti / Pašalinti) ir mygtukas "
+  "version": "1.0.18",
+  "exe_url": "https://github.com/dreamerx1/lunar-baits-releases/releases/download/v1.0.18/LunarBaits.exe",
+  "released_at": "2026-05-03T20:27:40+00:00",
+  "notes": "Pirkimo sąrašas dabar atidaromas viduje kaip rūšiuojama lentelė — galima kopijuoti į Excel'į (Ctrl+C arba mygtukai), išsaugoti CSV ir matyti bendrą sumą iš karto."
 }
